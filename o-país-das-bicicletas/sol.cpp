@@ -35,7 +35,8 @@ void FloydWarshall(int n, vector<Edge>& edges) {
     }
   }
 
-  // Caso queira ver a matriz de distâncias, descomente essa parte
+  // Caso queira ver a matriz de distâncias, descomente essa parte. 
+  // Nesse caso, são as altitudes encontradas.
   /* for (int u = 1; u <= n; u++) {
     for (int v = 1; v <= n; v++) {
       if (v > 1) {
