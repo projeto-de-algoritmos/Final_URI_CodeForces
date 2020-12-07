@@ -23,6 +23,10 @@ O primeiro problema (O País das Bicicletas) foi resolvido utilizando o Algoritm
 ## Uso 
 Para usar, clone o repositório ```git clone https://github.com/projeto-de-algoritmos/Final_URI_CodeForces.git```, acesse a pasta ```dijkstra``` e digite ```g++ sol.cpp -std=c++17 -o sol``` e, logo em seguida, digite ```./sol < in1```. Caso queira rodar o problema do CodeForces. Caso queira rodar o problema do URI, basta entrar na pasta ```o-país-das-bicicletas``` e digitar ```g++ sol.cpp -std=c++17 -o sol``` e, logo em seguida, digite ```./sol < in1```. Nas duas pastas temos os inputs dos exercícios resolvidos.
 
+## Vídeo
+Caso queira assistir o vídeo, entre nesse link:
+[Vídeo explicativo](https://www.youtube.com/watch?v=1TQA3IAEMEY)
+
 
 
 
